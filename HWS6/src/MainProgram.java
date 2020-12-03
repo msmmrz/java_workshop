@@ -4,13 +4,13 @@ public class MainProgram {
    static ArrayList<Member> users_list ;
     public static void main(String[] args) {
 
-        //------------------------------- memeber --------------------------
+        //------------------------------- member --------------------------
         Member user1 = new Member();
         Member user2 = new Member();
         Member user3 = new Member();
          users_list = new ArrayList<Member>();
 
-        user1.setAll("ali" ,"hasani" ,"aliHasani" ,"ali1234");
+        user1.setAll("ali" ,"hasani" ,"alihasani" ,"ali1234");
         user1.setAll("masoume" ,"mirzaee" ,"msm" ,"msm1234");
         user1.setAll("atefe" ,"porian" ,"pori" ,"ati1234");
 
