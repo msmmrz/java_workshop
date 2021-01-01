@@ -1,6 +1,6 @@
 package sepah.bank;
 
-import com.sun.deploy.util.BlackList;
+//import com.sun.deploy.util.BlackList;
 
 public class Account {
     private int AccountID;
